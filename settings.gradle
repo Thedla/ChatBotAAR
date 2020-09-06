@@ -1,0 +1,3 @@
+rootProject.name='ChatBotAAR'
+include ':app'
+include ':chatbotdialog'
